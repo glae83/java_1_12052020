@@ -40,5 +40,4 @@ public static boolean Numder2(int b){
 public static void printHello(String hello){
     System.out.println("Привет,"+ hello);
 }
-
 }
