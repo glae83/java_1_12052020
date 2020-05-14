@@ -1,6 +1,6 @@
 public class MainClass {
     public static void main(String[] args) {
-        System.out.println("Привет мир!");
+
 
     byte a = 10;
     short b = 1232;
